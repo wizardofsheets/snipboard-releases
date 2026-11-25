@@ -1,5 +1,5 @@
-# Snipboard downloads
+# SnipWand downloads
 
-Installer and update feed for Snipboard by Wizard of Sheets.
+Installer and update feed for SnipWand by Wizard of Sheets.
 
-Download: https://downloads.wizardofsheets.com/snipboard/Snipboard-Setup.exe
+Download: https://downloads.wizardofsheets.com/snipwand/SnipWand-Setup.exe
