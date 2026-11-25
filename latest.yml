@@ -1,8 +1,8 @@
-version: 1.5.0
+version: 1.5.1
 files:
-  - url: SnipWand-Setup-1.5.0.exe
-    sha512: Mk4Y3O4Lme+bYFzIL8L32iUkgRma9MdMP1QRrH7w+7ykT39Jl9qo4HsCryDckFdXuVLfLVA6WYHOCgB7f2DEHQ==
-    size: 84139288
-path: SnipWand-Setup-1.5.0.exe
-sha512: Mk4Y3O4Lme+bYFzIL8L32iUkgRma9MdMP1QRrH7w+7ykT39Jl9qo4HsCryDckFdXuVLfLVA6WYHOCgB7f2DEHQ==
-releaseDate: '2026-11-25T20:47:47.000Z'
+  - url: SnipWand-Setup-1.5.1.exe
+    sha512: RETdKUe3cnCiuQAwgucQJX5oGYHG63I/ZifpffIabDIl2xZi4ldxGI2bAF8ZSdmR0rp0fbqxPmjVml8whGESvQ==
+    size: 84102401
+path: SnipWand-Setup-1.5.1.exe
+sha512: RETdKUe3cnCiuQAwgucQJX5oGYHG63I/ZifpffIabDIl2xZi4ldxGI2bAF8ZSdmR0rp0fbqxPmjVml8whGESvQ==
+releaseDate: '2026-11-25T21:13:47.000Z'
