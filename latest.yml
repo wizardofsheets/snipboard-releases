@@ -1,8 +1,8 @@
-version: 1.4.2
+version: 1.4.3
 files:
-  - url: Snipboard-Setup-1.4.2.exe
-    sha512: 9yVViw4ZCITH0H2zhxRP+WIDVYsk5rvC0/xKnXU9xmhw7V3NGB/LPz3hIq0ym+8CCSFjtEtNTmbBvV/MbuVopA==
-    size: 84086356
-path: Snipboard-Setup-1.4.2.exe
-sha512: 9yVViw4ZCITH0H2zhxRP+WIDVYsk5rvC0/xKnXU9xmhw7V3NGB/LPz3hIq0ym+8CCSFjtEtNTmbBvV/MbuVopA==
-releaseDate: '2026-11-25T19:46:36.000Z'
+  - url: Snipboard-Setup-1.4.3.exe
+    sha512: boj6V8s5VzTAcehwdYsDFTRXS6VKoFQPDWQ0SqxNb3zL0415ZSTbZ7rxGnH72T/BcZ71+8NWCC0HOjwK3dwD+A==
+    size: 84095884
+path: Snipboard-Setup-1.4.3.exe
+sha512: boj6V8s5VzTAcehwdYsDFTRXS6VKoFQPDWQ0SqxNb3zL0415ZSTbZ7rxGnH72T/BcZ71+8NWCC0HOjwK3dwD+A==
+releaseDate: '2026-11-25T20:03:06.000Z'
